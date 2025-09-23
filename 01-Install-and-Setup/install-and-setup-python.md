@@ -9,13 +9,13 @@ description: "در این بخش با نصب پایتون و آماده‌ساز
 
 # ⚙️ نصب و راه‌اندازی پایتون
 
-برای شروع یادگیری پایتون باید ابتدا آن را روی [سیستم خود نصب کنیم.](Python-Course/01-Install-and-Setup/External-Resources/why-install-python.md)  
+برای شروع یادگیری پایتون باید ابتدا آن را روی [سیستم خود نصب کنیم.](External-Resources/why-install-python.md)  
 
 ---
 
 ## 1️⃣ بررسی نصب بودن پایتون
 
-در بعضی سیستم‌ها (مثل [لینوکس](linux-introduction.md) و مک) پایتون از قبل نصب است.  
+در بعضی سیستم‌ها (مثل [لینوکس](External-Resources/linux-introduction.md) و مک) پایتون از قبل نصب است.  
 برای بررسی، در ترمینال دستور زیر را وارد کنید:
 
 ```bash
