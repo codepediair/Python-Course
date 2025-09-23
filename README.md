@@ -11,7 +11,7 @@ description: "این فایل نقشه راه و فهرست مطالب دوره 
 # 📘 جزوه آموزش پایتون – فهرست مطالب
 
 ## 🔰 مقدمات
-- [پایتون چیست؟](00-Introduction/what-is-python) 
+- [پایتون چیست؟](00-Introduction/what-is-python.md) 
 - [نصب و راه‌اندازی](Python-Course/01-Install-and-Setup/install-and-setup-python.md)  
 - [اولین برنامه](Python-Course/02-First-code/first-code-in-python.md)  
 - [ابزارها و محیط‌های توسعه](Python-Course/02-First-code/External-Resources/code-editors-and-ide.md) 
