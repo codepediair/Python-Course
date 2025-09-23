@@ -1,13 +1,17 @@
 ---
-title: "جزوه آموزش پایتون"
+title: جزوه آموزش پایتون
 author: "مدرس: مهدی رضایی"
-course: "Python Programming - Beginner to Advanced"
+course: Python Programming - Beginner to Advanced
 created: 2025-09-20
 updated: 2025-09-20
-tags: [python, course, index, programming]
-description: "این فایل نقشه راه و فهرست مطالب دوره آموزش پایتون است."
+tags:
+  - python
+  - course
+  - index
+  - programming
+description: این فایل نقشه راه و فهرست مطالب دوره آموزش پایتون است.
 ---
-
+![python course header image](https://i.pinimg.com/736x/df/76/64/df76649293f92fa00f11a7bb844e4bec.jpg)
 # 📘 جزوه آموزش پایتون – فهرست مطالب
 
 ## 🔰 مقدمات
