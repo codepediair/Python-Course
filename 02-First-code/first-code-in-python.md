@@ -9,13 +9,13 @@ description: "در این بخش اولین کد پایتون را می‌نوی
 
 # ✨ اولین کد در پایتون
 
-اولین کدی که معمولاً می‌نویسیم چاپ یک متن ساده است که در [کد ادیتور](Python-Course/02-First-code/External-Resources/code-editors-and-ide.md) خودمان مینویسیم:
+اولین کدی که معمولاً می‌نویسیم چاپ یک متن ساده است که در [کد ادیتور](External-Resources/code-editors-and-ide.md) خودمان مینویسیم:
 
 ```python
 print("Hello, Python!")
 ```
 
-حالا با [اجرای کد](Python-Course/02-First-code/External-Resources/how-to-run-python-code.md) این خروجی را خواهید دید
+حالا با [اجرای کد](External-Resources/how-to-run-python-code.md) این خروجی را خواهید دید
 
 ```
 Hello, Python!
